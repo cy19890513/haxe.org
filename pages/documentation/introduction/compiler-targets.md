@@ -3,9 +3,10 @@ Compiler Targets
 
 The following table gives an overview of available Haxe targets:
 
+<div class="table">
 
 Name | Kind | Static typing | Sys | Since
---- | --- | --- | --- | --- | ---
+--- | --- | --- | --- | --- 
 Flash | byte code | Yes | No | alpha (2005)
 Neko | byte code | No | Yes | alpha (2005)
 JavaScript | source | No | No |  beta (2006)
@@ -18,6 +19,8 @@ Python | source | No | Yes | 3.2 (2015)
 Lua | source | No | Yes | 3.3 (2016)
 PHP7 | source | No | Yes | 3.4 (2016)
 HashLink | byte code + source | Yes | Yes | 3.4 (2016)
+
+</div>
 
 > **Note:**
 > 
